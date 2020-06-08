@@ -1,0 +1,74 @@
+img {
+    margin-left: 200px;
+    width: 900px;
+    height: 500px; 
+   }
+#intro{
+    text-align: center;
+    font-family: Pacifico, cursive;
+    font-size: 30px;
+    margin-top: 10px;
+}
+.view{
+    margin: auto;
+    margin-top: 0px;
+    text-decoration: none;
+    font-family: Ubuntu, sans-serif;
+    border: 3px solid aqua;
+    width: 87px;
+    background-color: aqua;
+    outline: 2px solid black;
+    outline-radius: 50px;
+    }
+
+h1{
+    margin-top: 80px;
+    margin-left: 590px;
+    opacity: 0.5;
+    font-size: 30px;
+}
+.time{
+    text-align: left;
+    font-family: 
+    font-size: 20px;
+    margin-top: 0px;
+    text-align: justify;
+    background-color: aliceblue;
+}
+h4{
+    background-color: aliceblue;
+    width: 90px;
+    margin-top: 10px;
+    font-size: 20px;
+    font-family: Dosis, sans-serif;
+}
+p{
+    font-family: Ubuntu, sans-serif;
+    font-size: 20px;
+    margin-top: 10px;
+    
+}
+.nut{
+    margin-top: 60px;
+    margin-left: 560px;
+    opacity: 0.5;
+    font-size: 30px;
+    
+    
+}
+#img1{
+    width: 450px;
+    height: 320px;
+    margin-left: 450px;
+}
+.info{
+    margin-left: 470px; 
+
+}
+.last{
+    font-family: Pacifico, cursive;
+    margin-left: 250px;
+    font-size: 35px;
+    width: 800px;
+    background-color: aliceblue;
+}
