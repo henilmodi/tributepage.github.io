@@ -12,14 +12,18 @@ img {
 .view{
     margin: auto;
     margin-top: 0px;
-    text-decoration: none;
     font-family: Ubuntu, sans-serif;
-    border: 3px solid aqua;
-    width: 87px;
-    background-color: aqua;
-    outline: 2px solid black;
-    outline-radius: 50px;
+    border: 1px solid blueviolet;
+    border-radius: 12px;
+    width: 140px;
+    height: 30px;
+    background-color: blueviolet;
+   
     }
+a{
+    text-decoration: none;
+    color: white;
+}
 
 h1{
     margin-top: 80px;
@@ -71,4 +75,7 @@ p{
     font-size: 35px;
     width: 800px;
     background-color: aliceblue;
+}
+#here{
+    color: blueviolet;
 }
